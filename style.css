@@ -1,0 +1,10 @@
+
+.button {
+	color:red;
+	margin-top: 1%;
+	width: 93px;
+	height: 30px;
+}
+.button:hover {
+	background: navy;
+}
